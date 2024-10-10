@@ -46,3 +46,17 @@ h1 {
     color: #fff;
     background: #2e2f42;
 }
+
+.header-logo:hover,
+.header-logo:active,
+.header-logo:focus,
+.link:hover,
+.link:active,
+.link:focus {
+    color: #4d5ae5;
+}
+
+
+
+
+
