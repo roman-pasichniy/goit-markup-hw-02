@@ -12,7 +12,7 @@ ul {
     list-style-type: none;
 }
 
-.header-logo,
+.header-nav-logo,
 .footer-logo {
     font-family: "Raleway", sans-serif;
     font-weight: 700;
@@ -29,7 +29,7 @@ ul {
 
 .footer-logo-accent,
 .p-footer {
-    background: #2e2f42;
+    background-color: #2e2f42;
     color: #f4f4fd;
 }
 
@@ -53,12 +53,12 @@ h1 {
     line-height: 1.07143;
     text-align: center;
     color: #fff;
-    background: #2e2f42;
+    background-color: #2e2f42;
 }
 
-.header-logo:hover,
-.header-logo:active,
-.header-logo:focus,
+.logo:hover,
+.logo:active,
+.logo:focus,
 .link:hover,
 .link:active,
 .link:focus {
@@ -66,7 +66,7 @@ h1 {
 }
 
 button {
-    background: #4d5ae5;
+    background-color: #4d5ae5;
     font-weight: 500;
     font-size: 16px;
     line-height: 1.5;
