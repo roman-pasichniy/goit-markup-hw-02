@@ -11,7 +11,8 @@ ul {
     list-style-type: none;
 }
 
-.header-logo {
+.header-logo,
+.footer-logo {
     font-family: "Raleway", sans-serif;
     font-weight: 700;
     font-size: 18px;
@@ -20,8 +21,15 @@ ul {
     color: #2e2f42;
 }
 
-.header-logo-accent {
+.header-logo-accent,
+.footer-logo-accent {
     color: #4d5ae5;
+}
+
+.footer-logo,
+.p-footer {
+    background: #2e2f42;
+    color: #f4f4fd;
 }
 
 .header-nav {
@@ -56,10 +64,24 @@ h1 {
     color: #4d5ae5;
 }
 
-.button-link {
+button {
     background: #4d5ae5;
-    text-transform: uppercase;
-    color: orange;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5;
+    color: #fff;
 }
 
+h3 {
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+    color: #2e2f42;
+}
+
+p {
+    font-size: 16px;
+    line-height: 1.5;
+    color: #434455;
+}
 
