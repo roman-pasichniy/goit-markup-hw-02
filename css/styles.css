@@ -75,14 +75,13 @@ h1 {
 }
 
 .logo:hover,
-.logo:active,
 .logo:focus,
 .logo-span:hover,
-.logo-span:active,
 .logo-span:focus,
 .link:hover,
-.link:active,
-.link:focus {
+.link:focus,
+.section-one-button:hover,
+.section-one-button:focus {
     color: #404bbf;
 }
 
