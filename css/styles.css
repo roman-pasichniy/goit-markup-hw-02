@@ -44,18 +44,27 @@ ul {
 }
 
 .header-address {
+    font-style: normal;
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: #434455;
 }
 
+.header-address .link {
+    color: #434455;
+}
+
 h1 {
     font-weight: 700;
     font-size: 56px;
-    line-height: 1.07143;
+    line-height: 1.07;
+    letter-spacing: 0.02em;
     text-align: center;
     color: #fff;
+}
+
+.section-one {
     background-color: #2e2f42;
 }
 
@@ -76,6 +85,8 @@ button {
     font-weight: 500;
     font-size: 16px;
     line-height: 1.5;
+    letter-spacing: 0.04em;
+    cursor: pointer;
     color: #fff;
 }
 
