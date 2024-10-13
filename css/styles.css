@@ -94,7 +94,8 @@ button {
     color: #fff;
 }
 
-.section-two .title {
+.section-two .title-h3,
+.section-three .title-h3, {
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
@@ -102,7 +103,8 @@ button {
     color: #2e2f42;
 }
 
-.section-two .text {
+.section-two .text,
+.section-three .text {
     font-size: 16px;
     line-height: 1.5;
     color: #434455;
@@ -116,8 +118,6 @@ button {
     letter-spacing: 0.02em;
 }
 
-
-
 .section-three {
     background-color: #F4F4FD;
     color: #2e2f42;
@@ -125,7 +125,7 @@ button {
     text-transform: capitalize;
 
 }
-.section-three .title {
+.section-three .title-h2 {
     background-color: #FFFFFF;
     font-size: 36px;
     line-height: 1.11;
