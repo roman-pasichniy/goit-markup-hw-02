@@ -55,7 +55,7 @@ ul {
     color: #434455;
 }
 
-.section-one-title {
+.section-one .title {
     font-size: 56px;
     line-height: 1.07;
     letter-spacing: 0.02em;
@@ -94,7 +94,7 @@ button {
     color: #fff;
 }
 
-.footer-p {
+.footer .text {
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
@@ -108,7 +108,7 @@ button {
     text-transform: capitalize;
 
 }
-.section-three-title {
+.section-three .title {
     background-color: #FFFFFF;
     font-size: 36px;
     line-height: 1.11;
