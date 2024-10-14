@@ -94,8 +94,8 @@ button {
     color: #fff;
 }
 
-.section-two .title-h3,
-.section-three .title-h3, {
+.section-two .ul-title,
+.section-three .ul-title {
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
