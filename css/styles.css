@@ -94,6 +94,27 @@ button {
     color: #fff;
 }
 
+.footer-p {
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #434455;
+}
+
+.section-three {
+    background-color: #F4F4FD;
+    color: #2e2f42;
+    text-align: center;
+    text-transform: capitalize;
+
+}
+.section-three-title {
+    background-color: #FFFFFF;
+    font-size: 36px;
+    line-height: 1.11;
+    letter-spacing: 0.02em;
+}
+
 .section-two .ul-title,
 .section-three .ul-title {
     font-weight: 500;
@@ -107,27 +128,6 @@ button {
 .section-three .text {
     font-size: 16px;
     line-height: 1.5;
+    letter-spacing: 0.02em;
     color: #434455;
-    letter-spacing: 0.02em;
-}
-
-.footer-p {
-    font-size: 16px;
-    line-height: 1.5;
-    color: #434455;
-    letter-spacing: 0.02em;
-}
-
-.section-three {
-    background-color: #F4F4FD;
-    color: #2e2f42;
-    text-align: center;
-    text-transform: capitalize;
-
-}
-.section-three .title-h2 {
-    background-color: #FFFFFF;
-    font-size: 36px;
-    line-height: 1.11;
-    letter-spacing: 0.02em;
 }
