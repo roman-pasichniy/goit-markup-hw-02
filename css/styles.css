@@ -132,3 +132,9 @@ button {
     letter-spacing: 0.02em;
     color: #434455;
 }
+
+
+.ul-title,
+.text {
+    background-color: #FFFFFF;
+}
