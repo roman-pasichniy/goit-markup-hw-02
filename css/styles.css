@@ -109,7 +109,6 @@ button {
 
 }
 .section-three .title {
-    background-color: #FFFFFF;
     font-size: 36px;
     line-height: 1.11;
     letter-spacing: 0.02em;
@@ -117,7 +116,6 @@ button {
 
 .section-two .ul-title,
 .section-three .ul-title {
-    background-color: #FFFFFF;
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
