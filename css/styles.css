@@ -82,7 +82,10 @@ ul {
 .logo-span:hover,
 .logo-span:focus,
 .link:hover,
-.link:focus,
+.link:focus {
+    color: #404bbf;
+}
+
 .button:hover,
 .button:focus {
     background-color: #404BBF;
