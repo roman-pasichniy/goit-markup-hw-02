@@ -79,8 +79,8 @@ ul {
 .logo-span:focus,
 .link:hover,
 .link:focus,
-.section-one-button:hover,
-.section-one-button:focus {
+.section-one .button:hover,
+.section-one .button:focus {
     color: #404bbf;
 }
 
