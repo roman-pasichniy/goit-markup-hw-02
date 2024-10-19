@@ -79,10 +79,13 @@ ul {
 
 .logo:hover,
 .logo:focus,
+.logo:active,
 .logo-span:hover,
 .logo-span:focus,
+.logo-span:active,
 .link:hover,
-.link:focus {
+.link:focus,
+.link:active {
     color: #404bbf;
 }
 
