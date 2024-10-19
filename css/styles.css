@@ -67,12 +67,6 @@ ul {
     background-color: #2e2f42;
 }
 
-.section-one-button:hover,
-.section-one-button:active,
-.section-one-button:focus {
-    background-color: #404BBF;
-}
-
 .logo:hover,
 .logo:focus,
 .logo-span:hover,
@@ -81,7 +75,7 @@ ul {
 .link:focus,
 .section-one .button:hover,
 .section-one .button:focus {
-    color: #404bbf;
+    background-color: #404BBF;
 }
 
 button {
