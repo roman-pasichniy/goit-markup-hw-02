@@ -67,18 +67,7 @@ ul {
     background-color: #2e2f42;
 }
 
-.logo:hover,
-.logo:focus,
-.logo-span:hover,
-.logo-span:focus,
-.link:hover,
-.link:focus,
-.section-one .button:hover,
-.section-one .button:focus {
-    background-color: #404BBF;
-}
-
-button {
+.button {
     background-color: #4d5ae5;
     font-weight: 500;
     font-size: 16px;
@@ -86,6 +75,17 @@ button {
     letter-spacing: 0.04em;
     cursor: pointer;
     color: #fff;
+}
+
+.logo:hover,
+.logo:focus,
+.logo-span:hover,
+.logo-span:focus,
+.link:hover,
+.link:focus,
+.button:hover,
+.button:focus {
+    background-color: #404BBF;
 }
 
 .footer .text {
