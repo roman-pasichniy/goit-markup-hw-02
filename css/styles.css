@@ -31,7 +31,7 @@ ul {
 }
 
 .footer .logo-span,
-.footer > p {
+.footer .text {
     color: #f4f4fd;
 }
 
@@ -103,21 +103,21 @@ button {
 
 .section-three {
     background-color: #F4F4FD;
-    color: #2e2f42;
-    text-align: center;
-    text-transform: capitalize;
-
 }
+
 .section-three .title,
 .section-four .title {
     font-size: 36px;
     line-height: 1.11;
     letter-spacing: 0.02em;
     text-align: center;
+    color: #2e2f42;
+    text-transform: capitalize;
 }
 
 .section-two .ul-title,
-.section-three .ul-title {
+.section-three .ul-title,
+.section-four .ul-title {
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
@@ -129,7 +129,8 @@ button {
     background-color: #FFFFFF;
 }
 .section-two .text,
-.section-three .text {
+.section-three .text,
+.section-four .text {
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
